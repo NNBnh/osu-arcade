@@ -7,19 +7,15 @@
 ## 💡 About
 **NNB Arcade** is my personal [Osu!](https://osu.ppy.sh) mix skin.
 
+<p align="center"><a href="https://github.com/NNBnh/osu-arcade/releases/download/2.2.0/nnbArcade.osk"><img src="https://img.shields.io/github/downloads/NNBnh/osu-arcade/total?color=5639AC&labelColor=2E293D&style=for-the-badge&logoColor=FFFFFF" alt="Downloads"></a></p>
+
 ### 📔 Story
 You can learn about my journey with mixing Osu! skin (with preview) here:
 - [The beginning](https://github.com/NNBnh/osu-arcade/releases/tag/1.0.0)
 - [Material era](https://github.com/NNBnh/osu-arcade/releases/tag/2.2.0)
-- [*Coming soon...?*](https://github.com/NNBnh/osu-arcade/releases/tag/3.0.0)
-
-## 🚀 Setup
-First download the `nnbArcade.osk` file:
-
-<p align="center"><a href="https://github.com/NNBnh/osu-arcade/releases"><img src="https://img.shields.io/github/downloads/NNBnh/osu-arcade/total?color=5639AC&labelColor=2E293D&style=for-the-badge&logoColor=FFFFFF" alt="Downloads"></a></p>
-
-### 📥 Installation
-Follow this [guide](https://osu.ppy.sh/wiki/en/Installation#adding-skins).
+- Give up...
+  - I ended up with [**White Cat**](https://osu.ppy.sh/community/forums/topics/986201) and only use my mix when playing Mania mode
+  - Then fully switch to [**E.CS**](https://osu.ppy.sh/community/forums/topics/864394), although i miss the color of White Cat, E.CS is more polish, style and support all mode
 
 ## 💌 Credits
 Special thanks to:
