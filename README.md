@@ -7,7 +7,7 @@
 **NNB Arcade** is my personal [Osu!](https://osu.ppy.sh) mix skin.
 
 ### 📔 Story
-You can learn about my journey with mixing Osu! skin here:
+You can learn about my journey with mixing Osu! skin (with preview) here:
 - [The beginning](https://github.com/NNBnh/osu-arcade/releases/tag/1.0.0)
 - [Material era](https://github.com/NNBnh/osu-arcade/releases/tag/2.2.0)
 - [*Coming soon...?*](https://github.com/NNBnh/osu-arcade/releases/tag/3.0.0)
