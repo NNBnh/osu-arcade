@@ -7,6 +7,10 @@
 **NNB Arcade** is my personal [Osu!](https://osu.ppy.sh) mix skin.
 
 ### 📔 Story
+You can learn about my journey with mixing Osu! skin here:
+- [The beginning](https://github.com/NNBnh/osu-arcade/releases/tag/1.0.0)
+- [Material era](https://github.com/NNBnh/osu-arcade/releases/tag/2.2.0)
+- [*Coming soon...?*](https://github.com/NNBnh/osu-arcade/releases/tag/3.0.0)
 
 ## 🚀 Setup
 First download the `nnbArcade.osk` file:
@@ -25,6 +29,7 @@ Special thanks to:
 - [**Material Design**](https://osu.ppy.sh/community/forums/topics/481229) by [\_Indeketsu](https://osu.ppy.sh/users/6286572)
 - [**Plasma Vision**](https://osu.ppy.sh/community/forums/topics/539132) by [\_Indeketsu](https://osu.ppy.sh/users/6286572)
 - [**Skin!**](https://skins.osuck.net/index.php?newsid=2088) by [Xi9w](https://osu.ppy.sh/users/5844251)
+- [**E.CS**](https://osu.ppy.sh/community/forums/topics/864394) by [Justanewbie1](https://osu.ppy.sh/users/8234966)
 - [**White Cat**](https://osu.ppy.sh/community/forums/topics/986201) by [-Ganyu](https://osu.ppy.sh/users/9893708)
 
 <br><br><br><br>
