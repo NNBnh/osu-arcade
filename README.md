@@ -2,7 +2,6 @@
 <p align="center">My personal Osu! mix skin</p>
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/122723805-910a4580-d29d-11eb-98d3-5677ace84447.png"></p>
 <p align="center"><a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#development-completed"><img src="https://img.shields.io/badge/development-completed-%235639AC.svg?labelColor=2E293D&style=for-the-badge&logoColor=FFFFFF" alt="Development completed"></a></p>
-<p align="center"><a href="https://github.com/NNBnh/osu-arcade/watchers"><img src="https://img.shields.io/github/watchers/NNBnh/osu-arcade?labelColor=2E293D&color=5639AC&style=flat-square"></a> <a href="https://github.com/NNBnh/osu-arcade/stargazers"><img src="https://img.shields.io/github/stars/NNBnh/osu-arcade?labelColor=2E293D&color=5639AC&style=flat-square"></a> <a href="https://github.com/NNBnh/osu-arcade/network/members"><img src="https://img.shields.io/github/forks/NNBnh/osu-arcade?labelColor=2E293D&color=5639AC&style=flat-square"></a> <a href="https://github.com/NNBnh/osu-arcade/issues"><img src="https://img.shields.io/github/issues/NNBnh/osu-arcade?labelColor=2E293D&color=5639AC&style=flat-square"></a></p>
 
 ## 💡 About
 **NNB Arcade** is my personal [Osu!](https://osu.ppy.sh) mix skin.
