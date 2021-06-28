@@ -1,12 +1,10 @@
 <h1 align="center"><i>NNB Arcade</i></h1>
-<p align="center">My personal Osu! mix skin</p>
+<p align="center">Archive of my personal Osu! mix skin</p>
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/122723805-910a4580-d29d-11eb-98d3-5677ace84447.png"></p>
 <p align="center"><a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#development-completed"><img src="https://img.shields.io/badge/development-completed-%235639AC.svg?labelColor=2E293D&style=for-the-badge&logoColor=FFFFFF" alt="Development completed"></a></p>
 
 ## 💡 About
-**NNB Arcade** is my personal [Osu!](https://osu.ppy.sh) mix skin.
-
-<p align="center"><a href="https://github.com/NNBnh/osu-arcade/releases/download/2.2.0/nnbArcade.osk"><img src="https://img.shields.io/github/downloads/NNBnh/osu-arcade/total?color=5639AC&labelColor=2E293D&style=for-the-badge&logoColor=FFFFFF" alt="Downloads"></a></p>
+**NNB Arcade** is my personal [Osu!](https://osu.ppy.sh) mix skin and this repo is for archival purpose.
 
 ### 📔 Story
 You can learn about my journey with mixing Osu! skin (with preview) here:
