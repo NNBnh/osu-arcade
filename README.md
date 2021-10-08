@@ -27,6 +27,9 @@ Special thanks to:
 - [**White Cat**](https://osu.ppy.sh/community/forums/topics/986201) by [-Ganyu](https://osu.ppy.sh/users/9893708)
 - [**Magma Cavern**](https://skins.osuck.net/index.php?newsid=1215) by [Melonturtle](https://osu.ppy.sh/users/4775283)
 
+## 📢 Highlights
+- [**Collection Helper**](https://github.com/nzbasic/Collection-Helper) by [James](https://github.com/nzbasic)
+
 <br><br><br><br>
 
 ---
